@@ -1,0 +1,92 @@
+year,population,computed,published,difference,source,sheet,cell
+1989,All families,477809.7925282809,477810.0,-0.2074717191280797,scf2025_tables_public_real_historical.xlsx,Table 4,C6
+1989,No high school diploma,209946.7990136667,209950.0,-3.20098633330781,scf2025_tables_public_real_historical.xlsx,Table 4,C33
+1989,High school diploma,284104.3005800893,284100.0,4.300580089271534,scf2025_tables_public_real_historical.xlsx,Table 4,C34
+1989,Some college,466328.1913477733,466330.0,-1.8086522266967222,scf2025_tables_public_real_historical.xlsx,Table 4,C35
+1989,College degree,1035440.4431891586,1035440.0,0.4431891585700214,scf2025_tables_public_real_historical.xlsx,Table 4,C36
+1989,Single with child(ren),160243.7517993591,160240.0,3.7517993591027334,scf2025_tables_public_real_historical.xlsx,Table 4,C26
+1989,Couple with child(ren),513274.98406427907,513270.0,4.984064279065933,scf2025_tables_public_real_historical.xlsx,Table 4,C29
+1992,All families,424183.34637816984,424180.0,3.3463781698374078,scf2025_tables_public_real_historical.xlsx,Table 4,E6
+1992,No high school diploma,158915.68410746468,158920.0,-4.3158925353200175,scf2025_tables_public_real_historical.xlsx,Table 4,E33
+1992,High school diploma,253404.13642024194,253400.0,4.1364202419354115,scf2025_tables_public_real_historical.xlsx,Table 4,E34
+1992,Some college,382093.13404886174,382090.0,3.1340488617424853,scf2025_tables_public_real_historical.xlsx,Table 4,E35
+1992,College degree,840536.9343916959,840540.0,-3.0656083041103557,scf2025_tables_public_real_historical.xlsx,Table 4,E36
+1992,Single with child(ren),120308.32553030532,120310.0,-1.674469694684376,scf2025_tables_public_real_historical.xlsx,Table 4,E26
+1992,Couple with child(ren),468714.27645097795,468710.0,4.276450977951754,scf2025_tables_public_real_historical.xlsx,Table 4,E29
+1995,All families,451412.7446513851,451410.0,2.744651385117322,scf2025_tables_public_real_historical.xlsx,Table 4,G6
+1995,No high school diploma,177640.115288134,177640.0,0.115288133994909,scf2025_tables_public_real_historical.xlsx,Table 4,G33
+1995,High school diploma,282287.3911688533,282290.0,-2.608831146673765,scf2025_tables_public_real_historical.xlsx,Table 4,G34
+1995,Some college,386805.45946351223,386810.0,-4.540536487766076,scf2025_tables_public_real_historical.xlsx,Table 4,G35
+1995,College degree,934589.1275559233,934590.0,-0.8724440766964108,scf2025_tables_public_real_historical.xlsx,Table 4,G36
+1995,Single with child(ren),154129.45993463305,154130.0,-0.5400653669494204,scf2025_tables_public_real_historical.xlsx,Table 4,G26
+1995,Couple with child(ren),459257.46292092744,459260.0,-2.5370790725573897,scf2025_tables_public_real_historical.xlsx,Table 4,G29
+1998,All families,565980.3783001978,565980.0,0.3783001977717504,scf2025_tables_public_real_historical.xlsx,Table 4,I6
+1998,No high school diploma,157416.1211354389,157420.0,-3.878864561091177,scf2025_tables_public_real_historical.xlsx,Table 4,I33
+1998,High school diploma,314746.2035277901,314750.0,-3.7964722099131905,scf2025_tables_public_real_historical.xlsx,Table 4,I34
+1998,Some college,449231.8498445371,449230.0,1.849844537093304,scf2025_tables_public_real_historical.xlsx,Table 4,I35
+1998,College degree,1225730.0332630137,1225730.0,0.03326301369816065,scf2025_tables_public_real_historical.xlsx,Table 4,I36
+1998,Single with child(ren),209308.315275935,209310.0,-1.6847240650095046,scf2025_tables_public_real_historical.xlsx,Table 4,I26
+1998,Couple with child(ren),600154.7560717659,600150.0,4.756071765907109,scf2025_tables_public_real_historical.xlsx,Table 4,I29
+2001,All families,728352.9543116362,728350.0,2.954311636160128,scf2025_tables_public_real_historical.xlsx,Table 4,K6
+2001,No high school diploma,193042.07869134517,193040.0,2.0786913451738656,scf2025_tables_public_real_historical.xlsx,Table 4,K33
+2001,High school diploma,331992.8093873514,331990.0,2.809387351386249,scf2025_tables_public_real_historical.xlsx,Table 4,K34
+2001,Some college,501359.8563800219,501360.0,-0.14361997810192406,scf2025_tables_public_real_historical.xlsx,Table 4,K35
+2001,College degree,1664053.0914815522,1664050.0,3.091481552226469,scf2025_tables_public_real_historical.xlsx,Table 4,K36
+2001,Single with child(ren),174447.81957472872,174450.0,-2.1804252712754533,scf2025_tables_public_real_historical.xlsx,Table 4,K26
+2001,Couple with child(ren),808943.4058495985,808940.0,3.405849598464556,scf2025_tables_public_real_historical.xlsx,Table 4,K29
+2004,All families,772318.4218532785,772320.0,-1.5781467214692384,scf2025_tables_public_real_historical.xlsx,Table 4,M6
+2004,No high school diploma,234170.70569680294,234170.0,0.705696802935563,scf2025_tables_public_real_historical.xlsx,Table 4,M33
+2004,High school diploma,339326.4310218398,339330.0,-3.568978160212282,scf2025_tables_public_real_historical.xlsx,Table 4,M34
+2004,Some college,519893.2002242816,519890.0,3.2002242815797217,scf2025_tables_public_real_historical.xlsx,Table 4,M35
+2004,College degree,1661950.1534176627,1661950.0,0.15341766271740198,scf2025_tables_public_real_historical.xlsx,Table 4,M36
+2004,Single with child(ren),224707.83919234455,224710.0,-2.160807655454846,scf2025_tables_public_real_historical.xlsx,Table 4,M26
+2004,Couple with child(ren),868461.9605643105,868460.0,1.960564310546033,scf2025_tables_public_real_historical.xlsx,Table 4,M29
+2007,All families,871953.6978107019,871950.0,3.697810701909475,scf2025_tables_public_real_historical.xlsx,Table 4,O6
+2007,No high school diploma,223779.19646584027,223780.0,-0.8035341597278602,scf2025_tables_public_real_historical.xlsx,Table 4,O33
+2007,High school diploma,394304.2934249073,394300.0,4.293424907315057,scf2025_tables_public_real_historical.xlsx,Table 4,O34
+2007,Some college,565344.057818123,565340.0,4.057818123023026,scf2025_tables_public_real_historical.xlsx,Table 4,O35
+2007,College degree,1967253.3046437488,1967250.0,3.304643748793751,scf2025_tables_public_real_historical.xlsx,Table 4,O36
+2007,Single with child(ren),279235.244241152,279240.0,-4.755758847983088,scf2025_tables_public_real_historical.xlsx,Table 4,O26
+2007,Couple with child(ren),938706.641503533,938710.0,-3.358496467000805,scf2025_tables_public_real_historical.xlsx,Table 4,O29
+2010,All families,739501.2041619353,739500.0,1.2041619352530688,scf2025_tables_public_real_historical.xlsx,Table 4,Q6
+2010,No high school diploma,165283.49047873638,165280.0,3.490478736377554,scf2025_tables_public_real_historical.xlsx,Table 4,Q33
+2010,High school diploma,323422.680321134,323420.0,2.680321133986581,scf2025_tables_public_real_historical.xlsx,Table 4,Q34
+2010,Some college,408271.2259420859,408270.0,1.225942085904535,scf2025_tables_public_real_historical.xlsx,Table 4,Q35
+2010,College degree,1667757.6964312105,1667760.0,-2.303568789502606,scf2025_tables_public_real_historical.xlsx,Table 4,Q36
+2010,Single with child(ren),214015.60876067283,214020.0,-4.391239327174844,scf2025_tables_public_real_historical.xlsx,Table 4,Q26
+2010,Couple with child(ren),824459.5576556583,824460.0,-0.4423443416599184,scf2025_tables_public_real_historical.xlsx,Table 4,Q29
+2013,All families,736069.6766773202,736070.0,-0.32332267984747887,scf2025_tables_public_real_historical.xlsx,Table 4,S6
+2013,No high school diploma,150793.25040052895,150790.0,3.2504005289520137,scf2025_tables_public_real_historical.xlsx,Table 4,S33
+2013,High school diploma,278227.1094997275,278230.0,-2.8905002725077793,scf2025_tables_public_real_historical.xlsx,Table 4,S34
+2013,Some college,443765.04449328576,443770.0,-4.955506714235526,scf2025_tables_public_real_historical.xlsx,Table 4,S35
+2013,College degree,1620681.0518562645,1620680.0,1.0518562644720078,scf2025_tables_public_real_historical.xlsx,Table 4,S36
+2013,Single with child(ren),179884.64976631722,179880.0,4.649766317219473,scf2025_tables_public_real_historical.xlsx,Table 4,S26
+2013,Couple with child(ren),817941.5562736782,817940.0,1.5562736782012507,scf2025_tables_public_real_historical.xlsx,Table 4,S29
+2016,All families,930676.1773535815,930680.0,-3.822646418469958,scf2025_tables_public_real_historical.xlsx,Table 4,U6
+2016,No high school diploma,212281.16067276103,212280.0,1.1606727610342205,scf2025_tables_public_real_historical.xlsx,Table 4,U33
+2016,High school diploma,336704.8104404281,336700.0,4.8104404280893505,scf2025_tables_public_real_historical.xlsx,Table 4,U34
+2016,Some college,459042.4868025714,459040.0,2.4868025713949464,scf2025_tables_public_real_historical.xlsx,Table 4,U35
+2016,College degree,2030277.5597042853,2030280.0,-2.4402957146521658,scf2025_tables_public_real_historical.xlsx,Table 4,U36
+2016,Single with child(ren),229137.10772438755,229140.0,-2.8922756124520674,scf2025_tables_public_real_historical.xlsx,Table 4,U26
+2016,Couple with child(ren),971180.9698516264,971180.0,0.9698516264325008,scf2025_tables_public_real_historical.xlsx,Table 4,U29
+2019,All families,947407.3661270872,947410.0,-2.633872912847437,scf2025_tables_public_real_historical.xlsx,Table 4,W6
+2019,No high school diploma,174528.0838631004,174530.0,-1.9161368996137753,scf2025_tables_public_real_historical.xlsx,Table 4,W33
+2019,High school diploma,386405.00984338415,386410.0,-4.990156615851447,scf2025_tables_public_real_historical.xlsx,Table 4,W34
+2019,Some college,474474.6633142241,474470.0,4.663314224104397,scf2025_tables_public_real_historical.xlsx,Table 4,W35
+2019,College degree,1924329.1804031108,1924330.0,-0.8195968891959637,scf2025_tables_public_real_historical.xlsx,Table 4,W36
+2019,Single with child(ren),361075.77009204234,361080.0,-4.229907957662363,scf2025_tables_public_real_historical.xlsx,Table 4,W26
+2019,Couple with child(ren),1115355.295992503,1115360.0,-4.704007497057319,scf2025_tables_public_real_historical.xlsx,Table 4,W29
+2022,All families,1159447.4008199996,1159450.0,-2.5991800003685057,scf2025_tables_public_real_historical.xlsx,Table 4,Y6
+2022,No high school diploma,192202.2026423563,192200.0,2.2026423563074786,scf2025_tables_public_real_historical.xlsx,Table 4,Y33
+2022,High school diploma,452277.82849732257,452280.0,-2.171502677432727,scf2025_tables_public_real_historical.xlsx,Table 4,Y34
+2022,Some college,591919.3223057529,591920.0,-0.6776942471042275,scf2025_tables_public_real_historical.xlsx,Table 4,Y35
+2022,College degree,2180991.6477908646,2180990.0,1.6477908645756543,scf2025_tables_public_real_historical.xlsx,Table 4,Y36
+2022,Single with child(ren),300001.1927643278,300000.0,1.192764327803161,scf2025_tables_public_real_historical.xlsx,Table 4,Y26
+2022,Couple with child(ren),1269176.0507693628,1269180.0,-3.9492306371685117,scf2025_tables_public_real_historical.xlsx,Table 4,Y29
+2025,All families,1231997.2637032536,1232000.0,-2.7362967464141548,scf2025_tables_public_real_historical.xlsx,Table 4,AA6
+2025,No high school diploma,293877.9640927518,293880.0,-2.0359072482096963,scf2025_tables_public_real_historical.xlsx,Table 4,AA33
+2025,High school diploma,470028.0254142721,470030.0,-1.9745857279049233,scf2025_tables_public_real_historical.xlsx,Table 4,AA34
+2025,Some college,661350.281603081,661350.0,0.28160308103542775,scf2025_tables_public_real_historical.xlsx,Table 4,AA35
+2025,College degree,2240464.313068367,2240460.0,4.313068367075175,scf2025_tables_public_real_historical.xlsx,Table 4,AA36
+2025,Single with child(ren),299912.6622854895,299910.0,2.6622854894958436,scf2025_tables_public_real_historical.xlsx,Table 4,AA26
+2025,Couple with child(ren),1509029.9500054999,1509030.0,-0.04999450012110174,scf2025_tables_public_real_historical.xlsx,Table 4,AA29

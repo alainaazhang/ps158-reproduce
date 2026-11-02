@@ -1,0 +1,134 @@
+{
+  "year": 2025,
+  "dollar_year": 2025,
+  "method": "Validate SCF means and compute approximate 95% confidence intervals.\n\nRun after get_data.py: python3 validate_data.py\nDependencies: numpy, pandas, openpyxl.\n\nThe Fed codebook's MEANIT procedure uses the variance of 999 bootstrap\nestimates on implicate 1 (ddof=1), plus 6/5 times the variance of the five\nimplicate estimates (ddof=1). Effective replicate weights are WT1B * MM,\nwith missing values set to zero. Recompute each subgroup's denominator in\nevery replicate. Intervals below use pooled means +/- 1.96 * combined SE;\nthey are approximate normal intervals, not intervals for individual families.\nSources and hashes are recorded with the results in data/validation/.\n",
+  "published_comparisons": 91,
+  "all_match_within_5_dollars": true,
+  "largest_difference": {
+    "year": 2019,
+    "population": "High school diploma",
+    "computed": 386405.00984338415,
+    "published": 386410.0,
+    "difference": -4.990156615851447,
+    "source": "scf2025_tables_public_real_historical.xlsx",
+    "sheet": "Table 4",
+    "cell": "W34"
+  },
+  "internal_table_all_college_mean": 2263300.0,
+  "internal_table_cell": "Table 4!AA36",
+  "standard_error_benchmark": {
+    "public_data_computed": 31061.160358307923,
+    "internal_data_published": 30954.794096297046,
+    "cell": "Table 2!I6",
+    "note": "Different public/confidential data; not an exact-equality test."
+  },
+  "intervals": {
+    "college_with_children": {
+      "mean": 2291089.047150365,
+      "standard_error": 113186.28922373087,
+      "margin_of_error_95": 221845.1268785125,
+      "lower_95": 2069243.9202718525,
+      "upper_95": 2512934.1740288776,
+      "first_implicate_sample_families": 846,
+      "unique_sample_families": 847,
+      "sampling_variance": 12188766273.16544,
+      "imputation_variance": 518641495.8938449,
+      "implicate_means": [
+        2276223.941848141,
+        2292113.5573452287,
+        2308923.824930668,
+        2316665.069390912,
+        2261418.610619308
+      ],
+      "mean_of_implicate_means": 2291069.0008268515,
+      "replicates": 999
+    },
+    "high_school_or_less_with_children": {
+      "mean": 269168.37244688394,
+      "standard_error": 25625.373938144392,
+      "margin_of_error_95": 50225.73291876301,
+      "lower_95": 218942.63952812093,
+      "upper_95": 319394.10536564694,
+      "first_implicate_sample_families": 592,
+      "unique_sample_families": 596,
+      "sampling_variance": 625173113.1065265,
+      "imputation_variance": 26238896.969336215,
+      "implicate_means": [
+        262816.0425586353,
+        271374.73499601905,
+        273648.5132599938,
+        264579.6163230624,
+        273482.0496641034
+      ],
+      "mean_of_implicate_means": 269180.1913603628,
+      "replicates": 999
+    },
+    "all_college": {
+      "mean": 2240464.313068367,
+      "standard_error": 61201.05797268077,
+      "margin_of_error_95": 119954.07362645431,
+      "lower_95": 2120510.2394419126,
+      "upper_95": 2360418.3866948215,
+      "first_implicate_sample_families": 2127,
+      "unique_sample_families": 2138,
+      "sampling_variance": 3057462964.375235,
+      "imputation_variance": 573422110.5001644,
+      "implicate_means": [
+        2202672.292461648,
+        2254768.0291023324,
+        2246636.6057170313,
+        2264380.380626757,
+        2233334.3762597255
+      ],
+      "mean_of_implicate_means": 2240358.336833499,
+      "replicates": 999
+    },
+    "all_families": {
+      "mean": 1231997.2637032536,
+      "standard_error": 31061.160358307923,
+      "margin_of_error_95": 60879.874302283526,
+      "lower_95": 1171117.38940097,
+      "upper_95": 1292877.1380055372,
+      "first_implicate_sample_families": 4360,
+      "unique_sample_families": 4360,
+      "sampling_variance": 351849601.14310676,
+      "imputation_variance": 510788401.38451076,
+      "implicate_means": [
+        1196123.1435388238,
+        1238494.1236187785,
+        1232592.3688703245,
+        1258624.1810075585,
+        1234152.5000972429
+      ],
+      "mean_of_implicate_means": 1231997.2634265455,
+      "replicates": 999
+    }
+  },
+  "sources": [
+    {
+      "file": "2025_tables1_2_stderrs.xlsx",
+      "url": "https://www.federalreserve.gov/econres/files/2025_tables1_2_stderrs.xlsx",
+      "sha256": "588a6a2d4f83e7c53c9d75ce4271da143d6c74bee49879a81a37e546da1c91ae"
+    },
+    {
+      "file": "scf2025rw1s.zip",
+      "url": "https://www.federalreserve.gov/econres/files/scf2025rw1s.zip",
+      "sha256": "24a91e287a120e82fc1a1fa5521951dc173c72923ae5ed4d7e5c41d3ccc5c6e4"
+    },
+    {
+      "file": "scf2025_tables_public_real_historical.xlsx",
+      "url": "https://www.federalreserve.gov/econres/files/scf2025_tables_public_real_historical.xlsx",
+      "sha256": "fd6813a7a9f7c54ac0f530c8dc7c61a476767c8d5dd5d65d174cde85dd7149e5"
+    },
+    {
+      "file": "codebk2025.txt",
+      "url": "https://www.federalreserve.gov/econres/files/codebk2025.txt",
+      "sha256": "ad79528ce8a38d63e0869c3614ceec8572e0d46a601f1c4dc741ffe9a3679fcf"
+    },
+    {
+      "file": "scf2025_tables_internal_real_historical.xlsx",
+      "url": "https://www.federalreserve.gov/econres/files/scf2025_tables_internal_real_historical.xlsx",
+      "sha256": "9e500c456c685011fe2959ff969d20adf501fcb6282cab2474891d0389524e2d"
+    }
+  ]
+}
