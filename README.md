@@ -7,6 +7,18 @@ education groups and the ratio between them, in an Economist-inspired style:
 - **Mean:** `figures/wealth_gap.png` and `.svg`.
 - **Median variation:** `figures/wealth_gap_median.png` and `.svg`.
 
+## Optional bonus: median wealth
+
+Using medians lowers the 2025 wealth estimates to **$625,800** for the
+bachelor’s-or-higher group and **$71,790** for the high-school-or-less group,
+compared with means of about **$2.29 million** and **$269,000**.
+The median describes the middle family in each group and is less influenced
+by extremely wealthy families, shrinking the dollar gap from about **$2.02
+million** to **$554,010** while leaving the ratio similar (**8.7×** versus
+**8.5×**).
+The median ratio in 2025 remains below its **12.0×** level in 2013, whereas
+the mean ratio is close to its 2013 level of **8.6×**.
+
 ## Data and definitions
 
 Data come from the Federal Reserve’s [Survey of Consumer Finances (SCF)](https://www.federalreserve.gov/econres/scfindex.htm),
@@ -59,3 +71,11 @@ approximate 95% interval of **$2.07–$2.51 million**. This interval does not
 apply to the median. Neither figure displays confidence intervals. These
 are descriptive comparisons of different samples over time, without age
 adjustment; they do not establish that education causes wealth differences.
+
+## Submission access
+
+**The remaining issue is access:** a reported check of the
+[GitHub repository](https://github.com/alainaazhang/ps158-reproduce) returned
+**404**, and the screenshot was reported to show a lock icon, indicating a
+private repository. Before submitting, contact your TA to arrange access,
+or make the repository public.
